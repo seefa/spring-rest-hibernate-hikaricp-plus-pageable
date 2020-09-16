@@ -1,5 +1,7 @@
 # spring-rest-api-hibernate-hikaricp-tutorial
 
+#### Hibernate features explained in [spring-mvc-hibernate-dbcp2-tutorial](https://github.com/seefa/spring-mvc-hibernate-dbcp2-tutorial) and Spring Core features mentioned in [spring-core-tutorial](https://github.com/seefa/spring-core-tutorial) codes in my repository
+
 ##### This tutorial uses _PagingAndSortingRepository_, _Pageable_ and _Page_ interfaces for fetching data with applying some limitations   
 
 This tutorial code used to explain Spring with Hibernate for persistence layer and RESTful web services to call CRUD operations and HikariCP API for improvement database connection pool management by following tasks:
